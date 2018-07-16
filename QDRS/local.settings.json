@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "<enter storage key here>",
+    "AzureWebJobsDashboard": "<enter storage key here >",
+    "IoTHub": "<enter iot hub owner connection string here>",
+    "validationKey": "<enter validation key here, see readme.md for details>"
+  }
+}
