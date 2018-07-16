@@ -2,7 +2,7 @@
 
 This is example code to show how to manage an Azure IoT hub from an Azure function
 
-More infos soon on http://blogs.msdn.com/b/holgerkenn/
+More infos soon on https://blogs.msdn.com/b/holgerkenn/
 
 Includes a .net core client example. 
 
